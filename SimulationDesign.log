@@ -1,0 +1,19 @@
+LTspice 26.0.2 for Windows
+Circuit: C:\Users\MB\Documents\GitHub\GuitarPedal\SimulationDesign.net
+Start Time: Wed May 27 09:59:16 2026
+solver = Normal
+Maximum thread count: 22
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+Total elapsed time: 0.082 seconds.
+
+Files loaded:
+C:\Users\MB\Documents\GitHub\GuitarPedal\SimulationDesign.net
+C:\Users\MB\AppData\Local\LTspice\lib\cmp\standard.dio
+C:\Users\MB\AppData\Local\LTspice\lib\sub\LTC.lib
+
